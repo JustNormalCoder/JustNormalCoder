@@ -37,5 +37,4 @@ Beginner in Data Mining using Orange and Google Colab
 ---
 [![](https://komarev.com/ghpvc/?username=JustNormalCoder&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-https://giphy.com/gifs/StorvretaIBK-storvreta-ibk-andreas-stefansson-2pAOv2wqfZEnjsr8tW
+<img width="480" height="270" alt="Break Away Goal GIF by Storvreta IBK" src="https://github.com/user-attachments/assets/548a1f2b-6a3b-436c-8f8c-e58532f1d875" />
