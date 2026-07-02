@@ -36,3 +36,6 @@ Beginner in Data Mining using Orange and Google Colab
 
 ---
 [![](https://komarev.com/ghpvc/?username=JustNormalCoder&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+https://giphy.com/gifs/StorvretaIBK-storvreta-ibk-andreas-stefansson-2pAOv2wqfZEnjsr8tW
