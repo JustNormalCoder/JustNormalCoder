@@ -1,8 +1,8 @@
 # 💫 About Me:
 Student at SMK Telkom Jakarta<br>
-Currently interning at PUSTEKINFO DPR RI<br>
-Web Developer with 4 years of coding experience<br>
-Simplicity-focused UI/UX Enthusiast<br>
+An 12th Grader at Intern <br>
+mid level Web Dev/Game dev with 4 years of coding experience<br>
+Beginner Quality Assurance Tester At internship<br>
 Beginner in Data Mining using Orange and Google Colab
 
 ## 🌐 Socials:
