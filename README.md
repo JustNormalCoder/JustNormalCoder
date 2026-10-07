@@ -2,8 +2,7 @@
 Student at SMK Telkom Jakarta<br>
 An 12th Grader at Intern <br>
 mid level Web Dev/Game dev with 4 years of coding experience<br>
-Beginner Quality Assurance Tester At internship<br>
-Beginner in Data Mining using Orange and Google Colab
+Web Comission Is open From now but expect long work around 7-9 days due to school
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dimasabimanyu0703@gmail.com)
